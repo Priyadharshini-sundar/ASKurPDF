@@ -123,4 +123,4 @@ MIT License – see `LICENSE` file for details.
 
 ## 🙋‍♂️ Author
 
-Made with ❤️ by [@ram-rk-cmd](https://github.com/ram-rk-cmd)
+Made with ❤️ by [Priyadharshini-sundar](https://github.com/Priyadharshini-sundar)
