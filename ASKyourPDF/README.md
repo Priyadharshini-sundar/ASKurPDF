@@ -51,7 +51,7 @@ ASKyourPDF/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/ram-rk-cmd/ASKyourPDF.git
+git clone https://github.com/Priyadharshini-sundar/ASKyourPDF.git
 cd ASKyourPDF
 ```
 
