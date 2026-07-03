@@ -52,7 +52,7 @@ ASKyourPDF/
 
 ```bash
 git clone https://github.com/Priyadharshini-sundar/ASKurPDF.git
-cd ASKyourPDF
+cd ASKurPDF
 ```
 
 ### 2. Set Up Python Environment
